@@ -53,7 +53,7 @@ export default function Fy() {
           }`}
         >
           {/* Facebook SVG */}
-          <Link href="/" rel="noreferrer">
+          <Link href="/" rel="noreferrer" className="cursor-pointer">
             <svg
               viewBox="0 0 120 24"
               width={120}
@@ -92,6 +92,7 @@ export default function Fy() {
             theme ? "text-white" : "text-black"
           } w-[300px] h-screen text-white pl-2`}
         >
+          {/* First container > homepage and user */}
           <div id="con-1" className="py-2">
             <div
               className={`flex items-center justify-start sticky ${
@@ -125,6 +126,7 @@ export default function Fy() {
               </div>
             </div>
           </div>
+          {/* Second container > menu and other facebook features */}
           <div id="con-2" className="py-2">
             <div
               className={`flex items-center justify-start ${
@@ -169,6 +171,7 @@ export default function Fy() {
               <span className="my-1 ml-2 font-thin">Gaming</span>
             </div>
           </div>
+          {/* Third container > Groups and their preview */}
           <div id="con-3" className="py-2">
             <div
               className={`flex items-center justify-start ${
@@ -199,6 +202,7 @@ export default function Fy() {
               </p>
             </div>
           </div>
+          {/* Fourth container > Link and their preview */}
           <div id="con-4" className="py-2">
             <div
               className={`flex items-center justify-start ${
