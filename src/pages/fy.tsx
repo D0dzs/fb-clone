@@ -46,7 +46,6 @@ export default function Fy() {
         />
         <meta name="theme-color" content="#1877f2" />
         <meta name="robots" content="index, follow" />
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="language" content="English" />
         <meta name="author" content="Dodzs" />
         <link rel="icon" href="/favicon.ico" />
