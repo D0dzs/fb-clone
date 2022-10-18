@@ -16,7 +16,7 @@ const activeLol =
 const iHateThingsAmI =
   "before:w-3 before:bg-[#3996ff] before:h-9 hover:before:-translate-x-4 before:-translate-x-6 before:rounded-[6px] before:content-[''] before:transition-transform py-px";
 
-export default function fy() {
+export default function Fy() {
   const [theme, setTheme] = useState<boolean>();
 
   useEffect(() => {

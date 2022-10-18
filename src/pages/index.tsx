@@ -57,6 +57,7 @@ const Home: NextPage = () => {
                   width={300}
                   height={100}
                   className="lg:-translate-x-9 translate-y-4"
+                  alt="fb-logo"
                 />
               </div>
               {/* Hero left-side subtitle */}
