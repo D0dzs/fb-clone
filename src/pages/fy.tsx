@@ -220,7 +220,11 @@ export default function Fy() {
               className={`flex items-center justify-start ${
                 theme ? "hover:bg-[#3A3B3C]" : "hover:bg-[#c6cace]"
               } transition-colors w-full cursor-pointer rounded-[6px] ${beforeShit}`}
-              onClick={() => open("https://www.youtube.com/")}
+              onClick={() =>
+                open(
+                  `https://www.youtube.com/watch?v=${process.env.SOMETHING_GOOD}`
+                )
+              }
             >
               <p className="flex items-center self-center">
                 <img
