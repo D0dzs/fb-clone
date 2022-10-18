@@ -222,7 +222,7 @@ export default function Fy() {
               } transition-colors w-full cursor-pointer rounded-[6px] ${beforeShit}`}
               onClick={() =>
                 open(
-                  `https://www.youtube.com/watch?v=${process.env.NEXT_PUBLIC_SOMETHING_GOOD}`
+                  `https://www.youtube.com/watch?v=${process.env.SOMETHING_GOOD}`
                 )
               }
             >
