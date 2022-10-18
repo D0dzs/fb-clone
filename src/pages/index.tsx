@@ -37,6 +37,10 @@ const Home: NextPage = () => {
         <meta name="robots" content="index, follow" />
         <meta name="language" content="English" />
         <meta name="author" content="Dodzs" />
+        <meta
+          name="og:image"
+          content="https://www.facebook.com/images/fb_icon_325x325.png"
+        />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
