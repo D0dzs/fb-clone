@@ -15,6 +15,7 @@ const activeLol =
   "before:w-3 before:bg-[#3996ff] before:h-9 before:-translate-x-4 before:rounded-[6px] before:content-[''] before:transition-transform py-px";
 const iHateThingsAmI =
   "before:w-3 before:bg-[#3996ff] before:h-9 hover:before:-translate-x-4 before:-translate-x-6 before:rounded-[6px] before:content-[''] before:transition-transform py-px";
+const link = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
 
 export default function Fy() {
   const [theme, setTheme] = useState<boolean>();
@@ -220,11 +221,7 @@ export default function Fy() {
               className={`flex items-center justify-start ${
                 theme ? "hover:bg-[#3A3B3C]" : "hover:bg-[#c6cace]"
               } transition-colors w-full cursor-pointer rounded-[6px] ${beforeShit}`}
-              onClick={() =>
-                open(
-                  `https://www.youtube.com/watch?v=${process.env.SOMETHING_GOOD}`
-                )
-              }
+              onClick={() => open(link)}
             >
               <p className="flex items-center self-center">
                 <img
