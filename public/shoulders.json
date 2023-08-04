@@ -1,0 +1,86 @@
+[
+  {
+    "player": "9902e63b-d02d-4689-8c5c-9653f45cc268",
+    "entity": "panda",
+    "shoulder": "right",
+    "variant": 0
+  },
+  {
+    "player": "a1c40d68-8734-4e16-9716-69c63bea6f15",
+    "entity": "silver_fox",
+    "shoulder": "left",
+    "variant": 1
+  },
+  {
+    "player": "d1534e8e-00f1-426f-8173-46b1e65e7e4f",
+    "entity": "owl",
+    "shoulder": "right",
+    "variant": 0
+  },
+  {
+    "player": "083c3cd5-9c94-40c7-a166-5692e4dc4b2c",
+    "entity": "duck",
+    "shoulder": "left",
+    "variant": 0
+  },
+  {
+    "player": "ec0fa42d-252e-495f-823c-cf4c50df80b3",
+    "entity": "frog",
+    "shoulder": "left",
+    "variant": 1
+  },
+  {
+    "player": "cb64826c-ffa1-4f83-a34e-8399546598a4",
+    "entity": "rabbit",
+    "shoulder": "right",
+    "variant": 4
+  },
+  {
+    "player": "4154b07d-76ef-41c9-967b-da1770e0b480",
+    "entity": "ocelot",
+    "shoulder": "left",
+    "variant": 1
+  },
+  {
+    "player": "4eb20d4f-987c-473d-8f34-878f1c9fe321",
+    "entity": "ocelot",
+    "shoulder": "left",
+    "variant": 2
+  },
+  {
+    "player": "dce1900d-0761-4471-9a09-48b575c03457",
+    "entity": "ocelot",
+    "shoulder": "right",
+    "variant": 11
+  },
+  {
+    "player": "e5e2b89d-3884-4190-8b69-97863eb95bc6",
+    "entity": "frog",
+    "shoulder": "left",
+    "variant": 0
+  },
+  {
+    "player": "e3298bd7-61bf-427f-af89-4e418a20bf57",
+    "entity": "fox",
+    "shoulder": "right",
+    "variant": 1
+  },
+  {
+    "player": "59199808-a261-42dc-aff9-6df568615020",
+    "entity": "sprout",
+    "shoulder": "right",
+    "variant": 0
+  },
+  {
+    "player": "4a405d17-9e7b-4007-b4e3-a1adcd41c489",
+    "entity": "owl",
+    "shoulder": "left",
+    "variant": 0
+  },
+  {
+    "player": "e95c1f6d-e822-4371-9513-a621e79de5f7",
+    "entity": "fox",
+    "shoulder": "right",
+    "variant": 1
+  }
+]
